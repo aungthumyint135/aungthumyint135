@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Your Name**
+# 👋 Hey there, I'm **Aung Phyoe**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
@@ -184,7 +184,7 @@ const developer = {
 I'm always excited to collaborate on interesting projects or discuss new opportunities!
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blue?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge)](https://linkedin.com/in/aungthumyint)
 [![Email](https://img.shields.io/badge/📧_Email-Drop_A_Message-D14836?style=for-the-badge)](mailto:your.email@gmail.com)
 
 </div>
