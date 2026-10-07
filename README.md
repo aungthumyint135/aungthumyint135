@@ -1,7 +1,7 @@
 # Aung Thu Myint 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+practical+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+React+Native+%7C+Next.js;Building+practical+web+%26+mobile+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,23 +20,25 @@
 
 ## About Me
 
-I’m a full-stack developer focused on building practical, scalable web applications using Laravel, React, Next.js, and modern backend tooling. I enjoy creating clean interfaces, reliable APIs, and business-focused features that solve real problems.
+I'm a full-stack developer specializing in building practical, scalable web and mobile applications using Laravel, React, React Native, Next.js, and modern backend tooling. I enjoy creating clean interfaces, reliable APIs, and business-focused features that solve real problems across web and mobile platforms.
 
 My work is centered around:
 - Laravel and PHP-based backend systems
 - React and Next.js frontend development
+- React Native for cross-platform mobile applications
 - Modern UI/UX with responsive design patterns
 - Database-driven application architecture
 - Role-based systems, workflows, and admin dashboards
 
-I’m passionate about building software that is useful, maintainable, and easy to extend.
+I'm passionate about building software that is useful, maintainable, and easy to extend—whether on web or mobile.
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -97,6 +99,7 @@ A reusable role and permission structure for admin systems and access-controlled
 ## Current Focus
 
 - Building full-stack web applications with real-world workflows
+- Expanding into React Native for cross-platform mobile development
 - Strengthening my Laravel and React development skills
 - Exploring scalable architecture and product-ready patterns
 - Improving UI/UX and maintainable code practices
@@ -118,9 +121,9 @@ A reusable role and permission structure for admin systems and access-controlled
 
 ## Open to Work
 
-I’m open to opportunities in full-stack development, Laravel projects, React-based applications, and product-focused engineering work.
+I'm open to opportunities in full-stack development, React Native mobile apps, Laravel projects, React-based applications, and product-focused engineering work.
 
-If you're building something meaningful, I’d love to connect.
+If you're building something meaningful, I'd love to connect.
 
 - GitHub: https://github.com/aungthumyint135
 - LinkedIn: https://linkedin.com/in/aung-thu-myint
@@ -129,5 +132,5 @@ If you're building something meaningful, I’d love to connect.
 ---
 
 <div align="center">
-  <sub>Building practical software with a focus on usability, quality, and growth.</sub>
+  <sub>Building practical software with a focus on usability, quality, and growth—across web and mobile.</sub>
 </div>
