@@ -1,7 +1,7 @@
-# Hi, I'm Aung Thu Myint 👋
+# Aung Thu Myint 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+practical+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Next.js;Building+practical+web+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,14 +20,16 @@
 
 ## About Me
 
-I’m a full-stack developer focused on building practical, user-friendly web applications using Laravel, React, Next.js, and modern web tools. I enjoy turning business needs into clean and scalable digital experiences, especially in admin dashboards, task workflows, and role-based systems.
+I’m a full-stack developer focused on building practical, scalable web applications using Laravel, React, Next.js, and modern backend tooling. I enjoy creating clean interfaces, reliable APIs, and business-focused features that solve real problems.
 
-I’m currently learning and building with a strong focus on:
-- Laravel and full-stack application architecture
-- React and Inertia-based frontend experiences
-- Next.js for modern UI development
-- Database design and backend integration
-- Authentication, access control, and production-ready app patterns
+My work is centered around:
+- Laravel and PHP-based backend systems
+- React and Next.js frontend development
+- Modern UI/UX with responsive design patterns
+- Database-driven application architecture
+- Role-based systems, workflows, and admin dashboards
+
+I’m passionate about building software that is useful, maintainable, and easy to extend.
 
 ---
 
@@ -58,46 +60,46 @@ I’m currently learning and building with a strong focus on:
 
 ## Featured Projects
 
-### Ad Manager with Inertia + React
-A web-based application focused on managing ad campaigns and business operations with a modern interface and structured workflow.
+### 1. Ad Manager with Inertia + React
+Business-focused application for managing ad-related operations in a structured, dashboard-driven interface.
 
 - Laravel + Inertia + React
-- Admin-oriented dashboard experience
-- Practical business app architecture
-- GitHub: https://github.com/aungthumyint135/ad-manager-inertia-with-react
+- Practical admin workflow UI
+- Structured application architecture
+- Repository: https://github.com/aungthumyint135/ad-manager-inertia-with-react
 
-### Laravel + Supabase
-A Laravel project integrating Supabase for modern backend features and quick application setup.
+### 2. Laravel + Supabase
+A Laravel project built with Supabase integration for modern backend and fast application development.
 
-- Laravel backend structure
+- Laravel backend foundation
 - Supabase integration
-- Flexible app foundation for modern web solutions
-- GitHub: https://github.com/aungthumyint135/laravel-with-supabase
+- Clean project starter for scalable apps
+- Repository: https://github.com/aungthumyint135/laravel-with-supabase
 
-### Task Management App
-A task-focused project built to organize work, track progress, and support productivity workflows.
+### 3. Task Management App
+A workflow-based project focused on task tracking, organization, and productivity.
 
-- Task management UI
-- CRUD-driven functionality
-- Good example of workflow-based app development
-- GitHub: https://github.com/aungthumyint135/task-management
+- CRUD-driven task management
+- User-friendly interface
+- Practical business logic patterns
+- Repository: https://github.com/aungthumyint135/task-management
 
-### Laravel Role Permission Template
-A starter template for role and permission-based access control in Laravel applications.
+### 4. Laravel Role Permission Template
+A reusable role and permission structure for admin systems and access-controlled apps.
 
-- Multi-role access management
-- Permission-based authorization patterns
-- Useful for admin/dashboard systems
-- GitHub: https://github.com/aungthumyint135/laravel-role-permission-template
+- Role-based authorization
+- Permission management pattern
+- Useful for dashboards and multi-user platforms
+- Repository: https://github.com/aungthumyint135/laravel-role-permission-template
 
 ---
 
 ## Current Focus
 
-- Building clean and useful web applications
-- Strengthening full-stack development with Laravel and React
-- Exploring scalable application patterns and real-world workflows
-- Improving frontend UX and backend architecture
+- Building full-stack web applications with real-world workflows
+- Strengthening my Laravel and React development skills
+- Exploring scalable architecture and product-ready patterns
+- Improving UI/UX and maintainable code practices
 
 ---
 
@@ -114,9 +116,11 @@ A starter template for role and permission-based access control in Laravel appli
 
 ---
 
-## Let’s Connect
+## Open to Work
 
-I’m always open to collaboration, learning, and opportunities to build meaningful products.
+I’m open to opportunities in full-stack development, Laravel projects, React-based applications, and product-focused engineering work.
+
+If you're building something meaningful, I’d love to connect.
 
 - GitHub: https://github.com/aungthumyint135
 - LinkedIn: https://linkedin.com/in/aung-thu-myint
@@ -125,5 +129,5 @@ I’m always open to collaboration, learning, and opportunities to build meaning
 ---
 
 <div align="center">
-  <sub>Built with passion for practical, real-world software development.</sub>
+  <sub>Building practical software with a focus on usability, quality, and growth.</sub>
 </div>
